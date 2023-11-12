@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-The classes i'm taking, and will be studying until I feel i can move on is
+I'm a norwegian IT student this year. 
+
+Classes i'm enrolled into this semester;
   
   - Azure
   - Digital Security
-  - Managing and running windows server
+  - Managing and running windows servers
 
 I have good knowledge of PHP programming, and will also jump into python for sure!
 I'm only doing 3 courses right now because I don't wawnt to take too many at the same time and feel overwhelmed, which I wholeheartedly believe was a good decision! 
