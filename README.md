@@ -1,4 +1,5 @@
 ### Hi there 👋
+## So this is a quick introduction of myself, and i'm aware that I still have a long way in front of me, before I can shamelessly say that i'm a skilled developer, hehe, happy reading..
 
 I'm a norwegian IT student this year. 
 
