@@ -2,13 +2,13 @@
 ## So this is a quick introduction of myself, and i'm aware that I still have a long way in front of me, before I can shamelessly say that i'm a skilled developer, hehe, happy reading..
 
 
-So, i'm a 29 year old male student from Norway, studying computer stuff @ Tisip Fagskole (https://tisip.no/faces/public/nett/index.jsp), but also have some hobby projects when i'm not at school!
+So, i'm a 30 year old male student from Norway, studying computer stuff @ Tisip Fagskole (https://tisip.no/faces/public/nett/index.jsp), but also have some hobby projects when i'm not at school!
 
 Overview of the classes i'm enrolled into this semester;
   
-  - Azure
-  - Digital Security
-  - Managing and running windows servers
+   - React full-stack
+   - Python
+   - Laravel (A php framework)
 
 I'm only doing 3 courses right now because I don't wawnt to take too many at the same time and feel overwhelmed, which I wholeheartedly believe was a good decision! 
 
