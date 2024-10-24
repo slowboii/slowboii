@@ -7,11 +7,7 @@ Subjects this semester:
    - Laravel (A php framework)
 
 
-- 🔭 I’m currently working on a hobby project where I need  to learn node.js, and react.js, and my goal is to make a beautiful looking, and working, and pretty full-stack web-app.
-- 🌱 I’m currently learning node.js, next.js, react.js
-- 📫 How to reach me: My facebook is linked, send me a DM there if you must.
-- 💬 Ask me about whatever you want, except for anything that requires 3 brain cells to figure out :)
-
+For those in need; 
 I'm a freelancer taking commisions for websites and ideas as well, and you can contact me if you want to know more about that!
 
 
